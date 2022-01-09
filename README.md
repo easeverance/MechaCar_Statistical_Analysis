@@ -53,5 +53,20 @@ Lot 3: The summary shows that the mean of the lot is 1,496.14 with a p value of 
 ![Lot 3 T Test Deliverable 3](https://user-images.githubusercontent.com/90973718/148650575-5f80a162-2437-404a-a844-48ff5c679c46.png)
 
 
+## Study Design: MechaCar vs Competition
 
+Additional studies can be done to determine the likely hood of MechaCar being successful against their competition. Consumers are seeing vehicle prices in ranges that they have not seen before.  Therefore, in order to get consumers to purchase a specific vehicle then there are several key metrics that can be tested  that could possibly drive their descion. 
+
+Car Price: Dependent Variable
+Safety Ratings: Independent Variable
+City/HWY fuel efficiency: Independent Variable
+Maintenance cost: Independent Variable
+MPG: Independent Variable
+Resale Value: Independent Variable
+Customer Satisfaction: Indepenedent Variable
+
+Null Hypothesis (Ho) = MechaCar is priced comparable to similar comeptitors based off of key metrics
+Alternative Hypothesis (Ha) = MechaCar is not priced comparable to similar competitors bassed off of key metrics. 
+
+A multiple linear regression can be performed to see what metrics (independent variables) have a significant relationship with the dependent variable (Car Price).  In order to run this test MechaCar will need to have the metric data on their competitor vehicles ( mostly can be found in a Consumers Report).  
 
